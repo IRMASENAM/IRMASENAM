@@ -1,37 +1,54 @@
 <div align="center">
 
-# Hi there 👋 I'm Irma Sena Marliyana
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2563eb,100:14b8a6&text=Irma%20Sena%20Marliyana&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer%20|%20Informatics%20Engineering%20Student&descAlignY=58"/>
 
-### Front-End Developer | Informatics Engineering Student | Tech Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX;Building+Responsive+Web+Experiences;Always+Learning+and+Growing)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+JavaScript+%7C+UI%2FUX;Building+Responsive+Web+Experiences;Always+Learning+New+Things" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=IRMASENAM&label=Profile+Views&color=2563eb&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/IRMASENAM?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/IRMASENAM?style=for-the-badge&logo=github"/>
+
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I am an Informatics Engineering student at **Politeknik Negeri Cilacap** with a strong interest in **Front-End Development**, **UI/UX**, and modern web technologies.
+```javascript
+const irma = {
+    education: "D3 Informatics Engineering Student",
+    university: "Politeknik Negeri Cilacap",
+    focus: "Front-End Development",
+    learning: ["React", "API Integration", "UI/UX"],
+    interests: ["Web Development", "Technology", "Design"],
+    motto: "Keep learning and keep growing 🚀"
+}
+```
 
-I enjoy transforming ideas into responsive and user-friendly digital experiences while continuously improving my technical and creative skills.
-
-- 🎓 D3 Informatics Engineering Student
-- 💻 Focused on Front-End Development
-- 🌱 Currently learning React ecosystem & API Integration
-- 🚀 Interested in Web Development and UI/UX
-- 🤝 Open for collaboration and learning opportunities
-- ✨ Passionate about building meaningful projects
+I enjoy building **responsive**, **clean**, and **user-friendly** digital experiences while continuously exploring modern technologies and improving my development skills.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages & Technologies
+### Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,bootstrap,tailwind,laravel,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php"/>
+
+</p>
+
+### Frameworks & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,laravel,mysql"/>
 
 </p>
 
@@ -45,14 +62,14 @@ I enjoy transforming ideas into responsive and user-friendly digital experiences
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎓 Academic Regulation Chatbot
 
-AI-powered chatbot developed to help students access academic information efficiently.
+AI-powered chatbot for helping students access academic information efficiently.
 
-**Tech Stack:**  
-React • Tailwind CSS • FastAPI • PostgreSQL
+⚡ Tech:
+`React` `TailwindCSS` `FastAPI` `PostgreSQL`
 
 ---
 
@@ -60,37 +77,45 @@ React • Tailwind CSS • FastAPI • PostgreSQL
 
 Industrial internship project focused on inventory tracking and management systems.
 
-**Tech Stack:**  
-Laravel • PHP • MySQL • Bootstrap
+⚡ Tech:
+
+`Laravel`
+`PHP`
+`MySQL`
+`Bootstrap`
 
 ---
 
 ### 🌐 Personal Portfolio Website
 
-Responsive portfolio website developed to showcase projects, certifications, and technical skills.
+Responsive portfolio website designed to showcase projects, technical skills, and experiences.
 
-**Tech Stack:**  
-HTML • CSS • Bootstrap
+⚡ Tech:
+
+`HTML`
+`CSS`
+`Bootstrap`
 
 ---
 
-## 🏆 Achievements & Experiences
+# 🏆 Achievements
 
-🏅 Participant — National Polytechnic Informatics Student Competition (KMIPN VI)
+✨ Participant — National Polytechnic Informatics Student Competition (KMIPN VI)
 
-🏅 Participant — PKM IoT Program (Kemendikbudristek)
+✨ Participant — PKM IoT Program (Kemendikbudristek)
 
-🏅 Participant — National Infographic Competition
+✨ Participant — National Infographic Competition
 
-🏅 Administrative Staff — BEM Politeknik Negeri Cilacap
+✨ Administrative Staff — BEM Politeknik Negeri Cilacap
 
-🏅 BNSP Certified:
+✨ BNSP Certified:
+
 - Junior Web Developer
 - Junior Mobile Programmer
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -98,22 +123,36 @@ HTML • CSS • Bootstrap
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRMASENAM&layout=compact&theme=tokyonight"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IRMASENAM&theme=tokyonight"/>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-📧 Email: **irmaashe@gmail.com**
+<div align="center">
 
-💼 LinkedIn: **www.linkedin.com/in/irmasenam**
+<a href="mailto:irmaashe@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🐙 GitHub: **github.com/IRMASENAM**
+<a href="https://www.linkedin.com/in/irmasenam">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/IRMASENAM">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Keep learning and keep growing ✨
+### ✨ "Building today, improving tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,100:14b8a6"/>
 
 </div>
