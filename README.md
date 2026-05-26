@@ -83,99 +83,40 @@ mindmap
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### Languages
+### Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,bootstrap,tailwind,laravel,mysql"/>
 
-### Front-End
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+### Design & Productivity
 
-### Back-End & Database
+<img src="https://skillicons.dev/icons?i=figma,vscode,git,github"/>
 
-<img src="https://skillicons.dev/icons?i=laravel,mysql" />
+<br><br>
 
-### Tools
+### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=react,nodejs"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+| 💻 Front-End | ⚙️ Back-End | 🎨 Design | 🧰 Tools |
+|:------------:|:-----------:|:----------:|:---------:|
+| HTML | Laravel | Figma | Git |
+| CSS | PHP | Canva | GitHub |
+| JavaScript | MySQL | UI/UX | VS Code |
+| React | API Integration | Responsive Design | Microsoft Office |
 
-### 🎓 Academic Regulation Chatbot
-
-AI-powered chatbot project designed to help students access academic regulation information more efficiently.
-
-**Role:** Front-End Developer  
-**Tech Stack:** `React` `Tailwind CSS` `FastAPI` `PostgreSQL`  
-**Highlights:**
-- Responsive chatbot interface
-- API integration
-- User-friendly academic information access
-- Team-based capstone project
-
-</td>
-<td width="50%">
-
-### 📦 Integrated Inventory Management System
-
-Industrial internship project focused on inventory data management, stock monitoring, and integrated workflow.
-
-**Role:** Web Developer Intern  
-**Tech Stack:** `Laravel` `PHP` `MySQL` `Bootstrap`  
-**Highlights:**
-- Inventory management system
-- Database integration
-- Stock monitoring workflow
-- Real industry project experience
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio Website
-
-Responsive portfolio website developed to showcase projects, skills, certifications, and professional experience.
-
-**Role:** Front-End Developer  
-**Tech Stack:** `HTML` `CSS` `Bootstrap`  
-**Highlights:**
-- Responsive layout
-- Clean user interface
-- Project showcase
-- Professional branding
-
-</td>
-<td width="50%">
-
-### 🎨 Design & Infographic Works
-
-Visual design works created through competitions, organizational activities, and creative projects.
-
-**Focus:** Visual Communication  
-**Tools:** `Canva` `Figma`  
-**Highlights:**
-- Infographic competition
-- Poster design
-- Event visual materials
-- Creative storytelling
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
