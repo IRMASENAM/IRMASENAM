@@ -201,13 +201,9 @@ timeline
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IRMASENAM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=2563EB&text_color=E5E7EB" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRMASENAM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E5E7EB" />
-
 </div>
 
 <div align="center">
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=IRMASENAM&bg_color=0D1117&color=E5E7EB&line=14B8A6&point=2563EB&area=true&hide_border=true" />
 
 </div>
 
